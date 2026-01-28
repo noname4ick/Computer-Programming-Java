@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Problem5 {
     static public void main(){
-        double PI = 3.1415;
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the side: ");
         double x = input.nextDouble();
